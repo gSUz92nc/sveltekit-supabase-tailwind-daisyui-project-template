@@ -16,4 +16,4 @@ Then to run the project run
 npm run dev
 ```
 
-If you have any questions feel free to message me
+If you have any questions leave a issue or something ¯\_(ツ)_/¯
